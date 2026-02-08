@@ -1,4 +1,11 @@
-## Hi there 👋
+# Momen
+
+Frontend Developer in progress 🚀  
+Code • Learn • Build • Repeat  
+
+JS | HTML | CSS  
+Turning ideas into projects.
+
 
 <!--
 **Momen-MK/Momen-MK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
